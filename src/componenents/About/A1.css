@@ -1,0 +1,100 @@
+.content{
+    display: flex;
+    margin-top: 10%;
+}
+
+.my-intresey {
+    display: flex;
+    flex-wrap: wrap;
+}
+.my-intresey-li {    
+    list-style: none;
+    margin: 6%;
+    color: white;
+    font-size: 26px;
+}
+.intrest {
+    margin-top: 5%;
+}
+.c2{
+    display: flex;
+}
+.Name {
+    margin-left: 27%;
+    color: white;
+}
+
+h1.t2 {
+    margin-top: 7%;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.r1 {
+    margin-top: 8%;
+}
+@media only screen and (max-width: 820px){
+
+}
+@media only screen and (max-width: 820px){
+    .content.co-md {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+        
+    }
+    h1.t2.t2-md {
+        margin-top: revert;
+    }
+  
+    .r1.r1-md {
+        width: 154%;
+     
+        text-align: center;
+        margin-bottom: 20%;
+    }
+    .c3-sm {
+        text-align: center;
+    }
+    img.undefined.\".img1\" {
+        width: 85%;
+    }
+    .my-intresey.my-intresey-md {
+        margin-left: 13%;
+        margin-top: 7%;
+        
+    }
+}
+
+@media only screen and (max-width: 550px){
+   
+    p._Intro_wqxxc_65.si-m {
+    font-size: 15px;
+    margin-top: 5%;
+}
+.title-md{
+    text-align: center  ;
+}
+.my-intresey.my-intresey-md.my-intresey-sm {
+    margin-left: 21%;
+}
+   
+   
+    
+}
+@media only screen and (max-width: 420px){
+    .r1.r1-md.r1-sm {
+        margin-top: 24%;
+        width:200%;
+      
+    }
+    
+}
+@media only screen and (max-width: 376px){
+    .my-intresey.my-intresey-md.my-intresey-sm.my-intresey-xsm {
+        margin-left: 4%;}
+}
+
+
+

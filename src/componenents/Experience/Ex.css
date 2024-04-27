@@ -1,0 +1,239 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 10%;
+    gap: 10%;
+    align-items: end;
+
+/*     
+    transition-duration: 0.5s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+ 
+    border: 1px solid;
+width: 10%;
+  box-shadow: 0px 5px 7px -2px rgb(255, 166, 0); */
+ 
+  }
+  .grid-item1 {
+    width: 89%;
+    transition-duration: 0.5s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+   
+    box-shadow: 0px 5px 7px -2px rgb(255, 166, 0);
+    justify-content: center;
+    align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+    text-align: center;
+  }
+  .grid-item1:hover{
+    transform: scale(1.05);
+  }
+  .grid-item2 {
+    width: 89%;
+    transition-duration: 0.5s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+    box-shadow: 0px 5px 7px -2px rgba(0, 0, 255, 0.678);
+    justify-content: center;
+    align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+    text-align: center;
+  }
+  .grid-item2:hover{
+    transform: scale(1.05);
+  }
+  .grid-item3 {
+    width: 89%;
+    transition-duration: 0.5s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+    box-shadow: 0px 5px 7px -2px rgba(192, 192, 192, 0.736);
+    justify-content: center;
+    align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+    text-align: center;
+  }
+  .grid-item3:hover{
+    transform: scale(1.05);
+  }.grid-item4 {
+    width: 89%;
+    transition-duration: 0.5s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+    box-shadow: 0px 5px 7px -2px rgba(255, 255, 0, 0.709);
+    justify-content: center;
+    align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+    text-align: center;
+  }
+  .grid-item4:hover{
+    transform: scale(1.05);
+  }
+  .grid-item5 {
+    width: 89%;
+    transition-duration: 0.5s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+    box-shadow: 0px 5px 7px -2px  rgb(9, 133, 182);
+    justify-content: center;
+    align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+    text-align: center;
+  }
+  .grid-item5:hover{
+    transform: scale(1.05);
+  }
+  .grid-item6 {
+    width: 89%;
+    transition-duration: 0.5s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+    box-shadow: 0px 5px 7px -2px lightblue;
+    justify-content: center;
+    align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+    text-align: center;
+  }
+  .grid-item6:hover{
+    transform: scale(1.05);
+  }
+  .grid-item7 {
+    width: 89%;
+    transition-duration: 0.5s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+    box-shadow: 0px 5px 7px -2px rgb(44, 223, 44);
+    justify-content: center;
+    align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+    text-align: center;
+  }
+  .grid-item7:hover{
+    transform: scale(1.05);
+  }
+  
+  .grid-item8 {
+    width: 89%;
+    transition-duration: 0.5s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+    box-shadow: 0px 5px 7px -2px rgba(0, 100, 0, 0.83);
+    justify-content: center;
+    align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+    text-align: center;
+  }
+  .grid-item8:hover{
+    transform: scale(1.05);
+  }
+  .grid-item9 {
+    width: 89%;
+    transition-duration: 0.5s;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+    box-shadow: 0px 5px 7px -2px  rgba(209, 10, 209, 0.696);
+    justify-content: center;
+    align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+    text-align: center;
+  }
+  .grid-item9:hover{
+    transform: scale(1.05);
+  }
+  
+  
+  
+
+
+
+
+
+  .Experience{
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .title{
+    
+    color: white;
+  }
+  .title h1 {
+    font-size: 35px;
+    margin-left: 10%;
+  }
+  .title p {
+    text-align: center;
+ margin-top: 5%;
+ font-size: 30px;
+ font-weight: 700;
+  }
+
+
+
+  @media only screen and (max-width: 600px){
+    .grid-co-md{
+      grid-template-columns: auto auto ;
+      
+    }
+    .Experience.exp-md {
+      margin-bottom: 90%;
+  }
+
+}
